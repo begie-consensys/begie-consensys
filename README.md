@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IT or Dev topics
 - 📫 You can reach me at begie.rivera-ext@consensys.net
 - 😄 Pronouns: Be-ji
-- ⚡ Fun fact: I'm an introvert lolololol
+- ⚡ Fun fact: I'm an introvert lol
 
 <!---
 begie-consensys/begie-consensys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
